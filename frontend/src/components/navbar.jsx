@@ -55,8 +55,8 @@ const Navbar = ({ userInfo, onSearchNote, handleClearSearch }) => {
         <div className="bg-white flex items-center justify-between px-6 py-2 drop-shadow">
             <Link to={"/"}>
                 <h2 className="text-xl font-medium text-black py-2">
-                    <span className="text-slate-500">Good</span>
-                    <span className="text-slate-900">Notes</span>
+                    <span className="text-slate-500">Ever</span>
+                    <span className="text-slate-900">Scribe</span>
                 </h2>
             </Link>
 
